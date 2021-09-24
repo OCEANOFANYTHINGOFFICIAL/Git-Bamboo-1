@@ -1,0 +1,25 @@
+{
+  "name": "git-bamboo-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OCEANOFANYTHINGOFFICIAL/Git-Bamboo-1.git"
+  },
+  "author": "OCEAN OF ANYTHING",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OCEANOFANYTHINGOFFICIAL/Git-Bamboo-1/issues"
+  },
+  "homepage": "https://github.com/OCEANOFANYTHINGOFFICIAL/Git-Bamboo-1#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^3.0.6",
+    "simple-git": "^2.45.1"
+  }
+}
